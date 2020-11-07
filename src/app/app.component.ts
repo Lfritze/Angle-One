@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+// Data Binding
 export class AppComponent {
-  title = 'app-one';
+  name = 'Leighton';
 }
